@@ -1,12 +1,13 @@
-## Hi, I'm James 👋
+# Hi, I'm James 👋
 I'm a 3rd-year Math + CS student at UCLA. I specialize in building web and mobile applications that solve real problems, with a strong focus on usability, performance, and clean architecture.
 
-## 🚀 What I’ve Built
+# 🚀 Apps I’ve Built
 
 ## **BruinLoop** 
-(React Native, Expo, Supabase, PostgreSQL)
-
+**Tech Stack:** (React Native, Expo, Supabase, PostgreSQL)<br>
 Mobile app for UCLA students to discover available campus spaces and study spots in real time
+<br>
+<br>
 
 ## **SwiftyMail** 
 
@@ -16,10 +17,11 @@ Web application that uses AI to draft and send personalized emails at scale. Che
 <br>
 <img width="1726" height="932" alt="Screenshot 2025-12-25 at 6 50 46 PM" src="https://github.com/user-attachments/assets/3d6ddeb9-edab-475e-94eb-5760ee10e427" />
 
-## Contact 
+# Contact 
 - Based in Los Angeles, California
+- My Work on [jamesliuu.vercel.app](https://jamesliuu.vercel.app/)
 - ✉️ [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com)
-- 💼 [Linkedin](https://linkedin.com/in/jameszhiliu)
+- 💼 [jameszhiliu on LinkedIn](https://linkedin.com/in/jameszhiliu)
 
 
 **Always looking to connect with others so don’t hesitate to reach out.**
