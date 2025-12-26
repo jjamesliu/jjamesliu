@@ -1,4 +1,4 @@
-# Hi, I'm James 👋
+# 👋 Hi, I'm James 
 I'm a 3rd-year Math + CS student at UCLA. I specialize in building web and mobile applications that solve real problems, with a strong focus on usability, performance, and clean architecture.
 
 # 🚀 Apps I’ve Built
