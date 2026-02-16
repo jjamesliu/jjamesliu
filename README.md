@@ -1,30 +1,20 @@
-# 👋 Hi, I'm James 
-I'm a 3rd-year Math + CS student at UCLA. I specialize in building web and mobile applications that solve real problems, with a strong focus on usability, performance, and clean architecture.
+# Hi, I'm James 👋 
+📍 **Los Angeles, California | 🏫 3rd-year Math + Computer Science student @ UCLA**
+> Obsessed with building — turning ideas into production-ready full-stack web and mobile apps, designing scalable backend systems, and experimenting with AI.
 
-# 🚀 Apps I’ve Built
+## Apps I've Built
+- 📚 **[BruinLoop](https://apps.apple.com/us/app/bruinloop/id6756941139)** - Find open classrooms in UCLA buildings and available private library study rooms
+- 📈 **[TapdIN](https://apps.apple.com/us/app/tapdin/id6757208704)** - Social Prediction Market. Create prediction market groups with your friends make bets on anything
+- 📩 **[SwiftyMail](https://www.swiftypremium.com/)** - AI-powered email automation outreach tool. Generate and send 100+ personalized emails
 
-## **BruinLoop** 
-**Tech Stack:** (React Native, Expo, Supabase, PostgreSQL)<br>
-Mobile app for UCLA students to discover available campus spaces and study spots in real time
-<br>
-<br>
-
-## **SwiftyMail** 
-
-**Tech Stack:** (React, TypeScript, Supabase, PostgreSQL)<br>
-Web application that uses AI to draft and send personalized emails at scale. Check it our here @ [swiftypremium.com](https://swiftypremium.com/)
-<br>
-<br>
-<img width="1726" height="932" alt="Screenshot 2025-12-25 at 6 50 46 PM" src="https://github.com/user-attachments/assets/3d6ddeb9-edab-475e-94eb-5760ee10e427" />
-
-# Contact 
-- Based in Los Angeles, California
-- My Work on [jamesliuu.vercel.app](https://jamesliuu.vercel.app/)
-- ✉️ [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com)
-- 💼 [jameszhiliu on LinkedIn](https://linkedin.com/in/jameszhiliu)
-
-
+## Connect with me
 **Always looking to connect with others so don’t hesitate to reach out.**
+- 🌐 [jamesliuu.vercel.app](https://jamesliuu.vercel.app/) - My Portfolio Website
+- ✉️ [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com) - My Email Contact
+- 💼 [jameszhiliu on LinkedIn](https://linkedin.com/in/jameszhiliu) - My LinkedIn
+
+
+
 
 
 
