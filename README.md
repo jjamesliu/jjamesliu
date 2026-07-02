@@ -9,7 +9,7 @@
 
 ## Connect with me
 **Always looking to connect with others so don’t hesitate to reach out.**
-- 🌐 [jamesliuu.vercel.app](https://jamesliuu.vercel.app/) - My Portfolio Website
+- 🌐 [jameszhiliu.vercel.app](https://jameszhiliu.vercel.app/) - My Portfolio Website
 - ✉️ [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com) - My Email Contact
 - 💼 [jameszhiliu on LinkedIn](https://linkedin.com/in/jameszhiliu) - My LinkedIn
 
