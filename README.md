@@ -1,17 +1,10 @@
 # Hi, I'm James 👋 
-📍 **Los Angeles, California | 🏫 3rd-year Math + Computer Science student @ UCLA**
-> Obsessed with building — turning ideas into production-ready full-stack web and mobile apps, designing scalable backend systems, and experimenting with AI.
+im a third year undergrad @ UCLA studying math and computer science. i specialize in full-stack development and cloud infrastructure. previously built SwiftyMail and worked on distributed systems powering geospatial data systems @ General Atomics.
 
-## Apps I've Built
-- 📚 **[BruinLoop](https://apps.apple.com/us/app/bruinloop/id6756941139)** - Find open classrooms in UCLA buildings and available private library study rooms
-- 📈 **[TapdIN](https://apps.apple.com/us/app/tapdin/id6757208704)** - Social Prediction Market. Create prediction market groups with your friends make bets on anything
-- 📩 **[SwiftyMail](https://www.swiftypremium.com/)** - AI-powered email automation outreach tool. Generate and send 100+ personalized emails
-
-## Connect with me
-**Always looking to connect with others so don’t hesitate to reach out.**
-- 🌐 [jameszhiliu.vercel.app](https://jameszhiliu.vercel.app/) - My Portfolio Website
-- ✉️ [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com) - My Email Contact
-- 💼 [jameszhiliu on LinkedIn](https://linkedin.com/in/jameszhiliu) - My LinkedIn
+**Always looking to connect with others so don’t hesitate to reach out!**
+- portfolio - [jameszhiliu.vercel.app](https://jameszhiliu.vercel.app/)
+- linkedin - [https://linkedin.com/in/jameszhiliu](https://linkedin.com/in/jameszhiliu)
+- contact me - [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com)
 
 
 
