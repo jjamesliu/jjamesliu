@@ -6,7 +6,6 @@ im a third year undergrad @ UCLA studying math and computer science. i specializ
 - linkedin - [https://linkedin.com/in/jameszhiliu](https://linkedin.com/in/jameszhiliu)
 - contact me - [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com)
 <br/>
-<br/>
 always looking to connect with others so don’t hesitate to reach out!
 
 
