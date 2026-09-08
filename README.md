@@ -2,7 +2,7 @@
 im a third year undergrad @ UCLA studying math and computer science. i specialize in full-stack development and cloud infrastructure. previously built SwiftyMail and worked on distributed systems powering geospatial data systems @ General Atomics.
 <br/>
 <br/>
-- portfolio - [jameszhiliu.vercel.app](https://jameszhiliu.vercel.app/)
+- portfolio - [jameszhiliu.com](https://jameszhiliu.com)
 - linkedin - [https://linkedin.com/in/jameszhiliu](https://linkedin.com/in/jameszhiliu)
 - contact me - [liujameszhi@gmail.com](mailto:liujameszhi@gmail.com)
 <br/>
